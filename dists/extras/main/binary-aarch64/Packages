@@ -1,0 +1,14 @@
+Package: ngrok
+Architecture: aarch64
+Version: 2.3.35
+Maintainer: Rajdeep Verma @ultimatecybertech
+Installed-Size: 25188
+Filename: dists/extras/main/binary-aarch64/ngrok_2.3.35_aarch64.deb
+Size: 10906796
+MD5sum: 76ced0552b957ca5c0216916f01054c2
+SHA1: 707ebc664a5582a16b151c7395684f7a8f8e4449
+SHA256: 49c09f368a43ecd8b51ff349061eaad466788f7f98321fe751bbae9cee0ed0ef
+SHA512: 3105fd34e356b15f31ffe31e994adda628613444e03e8dc8be508361b49cd8399577ea455001fe2532c99673372a5707e9be9412f923a7a9c0c415b3e3fb4c5f
+Homepage: Not available
+Description: Hey guys I Rajdeep Verma converted the ngrok into a package.
+
