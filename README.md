@@ -1,4 +1,4 @@
-![logo](../master/images/logo.jpg)
+![logo](https://github.com/UltimateCyberTech/Cyber-Termux/blob/master/images/logo.jpg)
 
 it is unofficial repository maintained by me Rajdeep Verma @UltimateCyberTech. you can check available packages in README
 
