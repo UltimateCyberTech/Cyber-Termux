@@ -2,7 +2,7 @@
 
 it is unofficial repository maintained by me Rajdeep Verma @UltimateCyberTech. you can check available packages in README
 
-### Install TermuXBlacK
+### Install CYB3R-TermuX
 1. Just download installer script `wget https://raw.githubusercontent.com/UltimateCyberTech/Cyber-Termux/master/install.sh`
 2. Now run `sh install.sh`
 
