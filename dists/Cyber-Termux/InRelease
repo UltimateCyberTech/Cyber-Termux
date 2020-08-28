@@ -4,12 +4,12 @@ Hash: SHA256
 Architectures: all aarch64 arm i686 x86_64
 Codename: Cyber-Termux
 Components: main
-Date: Thu, 27 Aug 2020 15:20:12 +0000
+Date: Fri, 28 Aug 2020 02:15:05 +0000
 Label: Cyber-Termux APT repository for Termux
 Origin: Termux Packages (Cyber-Termux)i
 Suite: Cyber-Termux
 MD5Sum:
- 8b3f88249ceb115bc72a31f40d04ee01              227 Release
+ 2c0ea899bd56b86c37ce658adc3d5ef4              227 Release
  87fcda1e15b14f078363bcebeaeb2924             1251 main/binary-aarch64/Packages
  a81d2985f1c75312d2fbfe31673c6002              812 main/binary-aarch64/Packages.xz
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-all/Packages
@@ -21,7 +21,7 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-x86_64/Packages
  8dc5aea5b03dff8595f096f9e368e888               32 main/binary-x86_64/Packages.xz
 SHA1:
- e3b2c9acefead1ff274be72318b4c191835f42c6              227 Release
+ 717af33bef9380686a04c7ea3756ffd675e6a21e              227 Release
  287bb8ddaa0a92a555de77eaf91bf48ec2c238e9             1251 main/binary-aarch64/Packages
  20fe94ec5f2d7e9539691201d9224c7bbd60da24              812 main/binary-aarch64/Packages.xz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-all/Packages
@@ -33,7 +33,7 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-x86_64/Packages
  9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-x86_64/Packages.xz
 SHA256:
- 535f260f31fed95ca042c4f40f01c98e3475742afbe339087c54722f24a43ca4              227 Release
+ 61e4d3f090ac878fd9aac19be5b4367ccbad37759a590578bfcc41e3af33d6f2              227 Release
  2d65a2f959a5a33019c2bd92d06fa121f08acaa5aa1f659488991b5a5382a556             1251 main/binary-aarch64/Packages
  625d87c82b797e75f61c006a81390b85c8aa3221d3eda1738ee9d27c38d89291              812 main/binary-aarch64/Packages.xz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-all/Packages
@@ -45,7 +45,7 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-x86_64/Packages
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-x86_64/Packages.xz
 SHA512:
- cf64abf6c1f5b2da8e0ed165a4d728a9255666c55b14a2703c99ddc135f37b17cacf9b5154b79268861af049e96b05c620f62a26a93f67bec36dc8afbd1bffad              227 Release
+ 57a955394122e0a661ffc5551a323707c861e0b57c01c2f19d5cbb1ce7598efa373699f5965271099f5ad6123fd31e57e099877a8070f6e2c1f070bead8401c8              227 Release
  fcf9dfb29bbd502120c8eb38e7329a2876933e0c942e48ce98a7a76bd6663b2f82f3acfaf2bf4fbaa98929c636c74e0443ff9c2a4622b998f5429eb19e2994b5             1251 main/binary-aarch64/Packages
  0b262241424990e8cb9628b5b60767b50eec25114e0963bcc3099c50756918194b2c1c392b71158c310d6edb2b570b2ab5b614d6dc22d9dbe635ee6cd6a088b8              812 main/binary-aarch64/Packages.xz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-all/Packages
@@ -58,12 +58,12 @@ SHA512:
  034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-x86_64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEwo7vrW2jRrbtEPJjpmHQxXZzZzYFAl9Hzy0ACgkQpmHQxXZz
-ZzaEygf9EtrgbKYLeXKLaAB3f/N8Ms5r0UtX3LoeqotkWJMPlCM8uHYsMt1jejhY
-BwIVl+WWdVopgPIoIl55b/jRlDD61qa0g9voDG19p7uv4QQYNHNq5Dg83Z56Gmyt
-YL15toYDCfaaX29pijypOkEJVF6iLO26DDxYcsFS0fSdIEV/kVdunM/GOTAVUNKB
-Ql3fpPsXbd0Da3F/3W63jOOUgJPtQom/eMVD5epLhjXlpGqAGJAb8vMggw7WoVXY
-TmM5KcTc0IOXI/foNRk3s5jpeYkm0GFbDhuTcYOxdfHu6nEFhhnEpY9BELItjhsr
-L8PW+HUXqSErmdqSnWbgdbqI4z8tLg==
-=C/7k
+iQEzBAEBCAAdFiEEwo7vrW2jRrbtEPJjpmHQxXZzZzYFAl9IaKkACgkQpmHQxXZz
+ZzYCZggAl6jvA0Fmkas3Fth85r3L300JoffjUxuPpdsYHk6bDdGcQ4LIGa+VOMM7
+EP3L+SnCQjnKTe1kFF/GT5OculLhvDMsBqCu4gudkEMAXaeeuO/IDiV1F7BHDbp2
+wz/WBTWoO/JlhumLOmJlcBBfhHKTa/d+pmjQ6Cj8woztcQHSVz6+dDicTWmZRr3R
+QYoXBWA0JFr3xweAfcHLb3Q4xRrtSJwb0Uov1CUTwmxQ5Uyw2rG9K43syIB+rS62
+u0cjS7e72Jc5lxyYZVH7vbJWxVUijjU+JP4jDQDdyUaDg6ojXa4oXIhlL6USYq7d
+19oSsDPUg6+b8RC2RQ+vo/bG0lGYTA==
+=R1yb
 -----END PGP SIGNATURE-----
