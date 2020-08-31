@@ -14,3 +14,4 @@ it is unofficial repository maintained by me Rajdeep Verma @UltimateCyberTech. y
 ### List Of Available Packages
 1. ngrok
 2. Termux-Style
+3. Termuxblack-repo

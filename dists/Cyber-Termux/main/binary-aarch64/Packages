@@ -1,17 +1,3 @@
-Package: Termux-Style
-Architecture: all
-Version: 5.6
-Maintainer: Rajdeep Verma @UltimateCyberTech
-Installed-Size: 18580
-Filename: dists/Cyber-Termux/main/binary-aarch64/termux-style.deb
-Size: 6323940
-MD5sum: b361237897aef0062591105b9cfe8c0c
-SHA1: de9d49477e9dc4fdeec4def4185a07a1ba3be6b3
-SHA256: 80d54257791138b27f5fc3e479cb459686335387ffcc5bc24cfb126f5d9cd03a
-SHA512: 5246189c570801568da823e68957c246cc37f3c44ae8bc5dd8a8dce28bc4da2a0406e334b6037c27c8164c1964b52710767a83b706627aa11e39ccbac1f44183
-Homepage: https://www.youtube.com/channel/UC31Jyb4PV5Ywt_E_Te9p9JA
-Description: Hey ! guys I Rajdeep Verma built this awsome Termux-Styling tool.
-
 Package: ngrok
 Architecture: aarch64
 Version: 2.3.35
