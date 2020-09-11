@@ -4,7 +4,6 @@ it is unofficial repository maintained by me Rajdeep Verma @UltimateCyberTech. y
 
 ### Install CYB3R-TermuX
 1. Just download installer script `curl https://raw.githubusercontent.com/UltimateCyberTech/Cyber-Termux/master/install.sh|bash`
-2. Now run `sh install.sh`
 
 ### Inatall Package 
 `apt install pkg_name`
