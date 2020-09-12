@@ -14,3 +14,4 @@ it is unofficial repository maintained by me Rajdeep Verma @UltimateCyberTech. y
 1. ngrok
 2. Termux-Style
 3. Termuxblack-repo
+4. config
