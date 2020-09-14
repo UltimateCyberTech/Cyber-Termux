@@ -26,3 +26,17 @@ SHA512: 5518e29f3feffac5b0beb31eddf75d0264e79a09cbd3be8d62d2f240c866c9a27b6deac7
 Homepage: https://www.hax4us.com/
 Description: it is unofficial repository maintained by @hax4us. you can check available packages on github link :- https://github.com/Hax4us/TermuxBlack
 
+Package: TermuxBlack-repo
+Architecture: all
+Version: 1.0
+Maintainer: Lokesh Pandey @hax4us
+Installed-Size: 136
+Filename: dists/Cyber-Termux/main/binary-all/termuxblack-repo_1.5_all.deb
+Size: 1348
+MD5sum: a2c05ff132bf0028353c5fa3f19d3e78
+SHA1: 55024048a62f46b361e7f4202a4fa3291e5812d9
+SHA256: 0e5a617a4e5eef959bbdb5fba43b198edb1c5c71d361fa571f8941bbe0977839
+SHA512: 41d09cd27e424a3adfbbc5d5661919a772e82f51a49d0cd6b9429de5291ce4d2e6d0ffbdce800176043f7af82f71ac8a9c57ddd70392da506f392cedbc42ec84
+Homepage: https://www.hax4us.com/
+Description: it is unofficial repository maintained by @hax4us. you can check available packages on github link :- https://github.com/Hax4us/TermuxBlack
+
