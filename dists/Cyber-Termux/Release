@@ -1,16 +1,16 @@
 Architectures: all aarch64 arm i686 x86_64
 Codename: Cyber-Termux
 Components: main
-Date: Fri, 18 Sep 2020 15:04:01 +0000
+Date: Fri, 18 Sep 2020 15:17:14 +0000
 Label: Cyber-Termux APT repository for Termux
 Origin: Termux Packages (Cyber-Termux)
 Suite: Cyber-Termux
 MD5Sum:
- f4b22d39cda3c53edcce1160da2a866a              226 Release
+ bc466cecfdc72febdadce7d94c491a93              226 Release
  f19ae96655aa19b1f7f61044e8bfd2ea             1185 main/binary-aarch64/Packages
  2b05783deaef8633431f4d6262cb0e2d              768 main/binary-aarch64/Packages.xz
- 847ea8ed0b89e22967c8e2f16c4fec02             2859 main/binary-all/Packages
- 8f3152ad2baa0476017bf7ca85ec78ec             1364 main/binary-all/Packages.xz
+ 1ade5fd7e70b0449239190ef370b1277             2859 main/binary-all/Packages
+ a5a6b760e4a3aeaacc78cd6617c44e61             1360 main/binary-all/Packages.xz
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-arm/Packages
  8dc5aea5b03dff8595f096f9e368e888               32 main/binary-arm/Packages.xz
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i686/Packages
@@ -18,11 +18,11 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-x86_64/Packages
  8dc5aea5b03dff8595f096f9e368e888               32 main/binary-x86_64/Packages.xz
 SHA1:
- 6b83ad9748cfbb4469db1ea6fdea041f91b3f878              226 Release
+ 70292000230f19e4afb6aebea990fb70297e07e7              226 Release
  b9203769f1df44ecdeecf7d6c2808c660952a733             1185 main/binary-aarch64/Packages
  ea78ed62c48cb2432a58f48337e98567edc26135              768 main/binary-aarch64/Packages.xz
- abed0fdf820fb564b2443324ad879b019ceb225a             2859 main/binary-all/Packages
- 68013b680da127e8e0818064c2f386ace452520e             1364 main/binary-all/Packages.xz
+ befaf2d283f4d2ea92429f7296708d80aad6c78a             2859 main/binary-all/Packages
+ fc8e04fae385af7b28f595283dca7a9504fdef1e             1360 main/binary-all/Packages.xz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-arm/Packages
  9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-arm/Packages.xz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i686/Packages
@@ -30,11 +30,11 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-x86_64/Packages
  9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/binary-x86_64/Packages.xz
 SHA256:
- 5da245e02bb1a0e01ca41fbcac0a3a1974023599b60503344a045fa59e680ec6              226 Release
+ 056460008e8c62fc872931e07edbf3e507ff62577f3d4622ce92f784daaceda4              226 Release
  60ea745f060ce43e2f80af2a9cabf8907a9e2d209e7a77acf98189982ce0a55e             1185 main/binary-aarch64/Packages
  1f3723ab90457989f09a0aaa3a840ff814ab3a8537a7c9c514d0115dac93dd0b              768 main/binary-aarch64/Packages.xz
- e747f1ca29a469422bd7d9b4786e67f88e04fa3bb38d440bcc04b5e8fbfb71bf             2859 main/binary-all/Packages
- b744893e1b5cb7ed5fa55dc0787b689985e24bd4d62bd42c6ec27243eaa977bd             1364 main/binary-all/Packages.xz
+ a2d71df01ef7caf77dda663efc00aee07eed2c59ed727207405a7cd42522ae87             2859 main/binary-all/Packages
+ 823d91f1dda8c78ebe08496ceed5a6a2ff2d50b5ccbb1fb6a37a61e12a29576b             1360 main/binary-all/Packages.xz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-arm/Packages
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-arm/Packages.xz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i686/Packages
@@ -42,11 +42,11 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-x86_64/Packages
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/binary-x86_64/Packages.xz
 SHA512:
- 3b5667b6c8b80891455bf9fd9599384064e03812a5a222944625ede44e89908a1b848b82fdcc854bbea0f2f2d43904b6d4e2817f50385a0e5ee82b296297f09e              226 Release
+ e0bc368abdac0555b24ea4e03d84261dbbbd45dfa3acc536f0a4bbd0df29ba8d1e7cea5a966ca504e34a4e576d3eaefb80c028cf5cfec7ed6a90923bb7579181              226 Release
  593897a3bca32ca153309f8ed9fc91d37acdd526724f0d1429cd7c8e7e9bea88f6bcc92e315faf8e6f64b2827b370ff16cba8f70a91f27d878a62cdb89aa798c             1185 main/binary-aarch64/Packages
  fc9b79796b813dc171e078d8208e32dd760edcf08c5aa63e04c427b3ff0acb7e77b8d1b0dfb6da81b54e301b8adb6bd82cb24465b4675a36b12225f9b9d1e645              768 main/binary-aarch64/Packages.xz
- 085f31c5a058beab10fad426832be813afd25bdd5b093c1524abc1d8aa11d99d9e5aff1d2dc15e1c792db4132d09e607960801126106b74792aecf575024e2ef             2859 main/binary-all/Packages
- 3e8d86fe0e2239d9ba95b2b909d766757e9d2fd69e3cc5e247ebf5b79cfd82d6c7246381c3746128da7825a6ff7f50c8a18b00fa937d62f90f153cbeb865c37e             1364 main/binary-all/Packages.xz
+ 5d2a0cb12a0eb5518db33c09ed73f3bff4d65a0b03fc81c2278dc7b6d5d5f41922c844d8734ce616b67c87e69c6940f23e77184da13619d2f8c3497df20d559b             2859 main/binary-all/Packages
+ afb4324c3b55f71dad32f776d27f869c575969129f2210f5b26e3b836e5a2ef5cd3310b6f0162cdb9053bb4462bca5f698490044553e3a7eca8e582357909004             1360 main/binary-all/Packages.xz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-arm/Packages
  034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 main/binary-arm/Packages.xz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i686/Packages
