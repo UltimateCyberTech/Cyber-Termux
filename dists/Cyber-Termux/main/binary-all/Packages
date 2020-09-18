@@ -40,3 +40,17 @@ SHA512: 41d09cd27e424a3adfbbc5d5661919a772e82f51a49d0cd6b9429de5291ce4d2e6d0ffbd
 Homepage: https://www.hax4us.com/
 Description: it is unofficial repository maintained by @hax4us. you can check available packages on github link :- https://github.com/Hax4us/TermuxBlack
 
+Package: upkg
+Architecture: all
+Version: 1.5
+Maintainer: Rajdeep Verma @UltimateCyberTech
+Installed-Size: 80
+Filename: dists/Cyber-Termux/main/binary-all/upkg_1.5_all.deb
+Size: 1856
+MD5sum: 1c22b77722f43bbb85264c5b5d0b8743
+SHA1: fb4f1d5820604247ffaa22e82c25b8debf2d2ba4
+SHA256: 27e4d86f7b109ae550f3bf625f55d71b43233cbe205d026c07f02cf7d3048d26
+SHA512: c01aaad394ac04f6310efb174abc6a4bac7b76b4554439652f71963670420e9678e5b13d13d3029b808215479cbc853392a60d373fb255d74ef1b31a31cbb0a8
+Homepage: https://www.youtube.com/channel/UC31Jyb4PV5Ywt_E_Te9p9JA
+Description: Hello this this special package installer create by me, Rajdeep Verma @UltimateCyberTech. Upkg stands for Unique Package Installer, It is similar to apt and pkg, but It is a very advanced and unique package Installer, because it contain backup,restore and multiple installing feature.
+
