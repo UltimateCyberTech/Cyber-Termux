@@ -47,10 +47,10 @@ Maintainer: Rajdeep Verma @UltimateCyberTech
 Installed-Size: 80
 Filename: dists/Cyber-Termux/main/binary-all/upkg_1.5_all.deb
 Size: 1848
-MD5sum: b456a92ece843c9d33e2e5469ca3e1e6
-SHA1: 0ae47ebf2ff19f22c51a61b3c50700946d12a79b
-SHA256: d9e658aff75bd9ecf1a727b52cfde8b2648362983ea0d528b3ab5deb022f5cbb
-SHA512: 418731f9a35540a28585f993990378b3822d46381440002d1bd471d2819b88694c5a35e560ba5a4de39a45afe2fe77aaae472bd2f0fa2fd9df3b192663276eb1
+MD5sum: 42332ff7a9297702c3659d88e38d4655
+SHA1: 416fa7a44c7a38c99402f71f087918045de8a2be
+SHA256: 312e6ef33a48496f5e7d22055412cde27e7a903f6d50e77733e7aa9578117eaa
+SHA512: 596f76dbd0d1352958206a28d63fc6b10f626dc127910c6884cae81f603fe8f9ad6bf61de46be2af5b4f28d602f092e7d3d1cbfed24d89d25f0541d31b95565b
 Homepage: https://www.youtube.com/channel/UC31Jyb4PV5Ywt_E_Te9p9JA
 Description: Hello this this special package installer create by me, Rajdeep Verma @UltimateCyberTech. Upkg stands for Unique Package Installer, It is similar to apt and pkg, but It is a very advanced and unique package Installer, because it contain backup,restore and multiple installing feature.
 
