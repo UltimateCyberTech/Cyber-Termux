@@ -12,19 +12,18 @@ SHA512: 5246189c570801568da823e68957c246cc37f3c44ae8bc5dd8a8dce28bc4da2a0406e334
 Homepage: https://www.youtube.com/channel/UC31Jyb4PV5Ywt_E_Te9p9JA
 Description: Hey ! guys I Rajdeep Verma built this awsome Termux-Styling tool.
 
-Package: TermuxBlack-repo
+Package: Config
 Architecture: all
-Version: 1.0
-Maintainer: Lokesh Pandey @hax4us
-Installed-Size: 136
-Filename: dists/Cyber-Termux/main/binary-all/termuxblack-repo_1.0_all.deb
-Size: 2724
-MD5sum: 1d602a8e1a2c406c56bf2d59dc69644e
-SHA1: 86706aee1efa7cafa42df88c58267101a92b3d3b
-SHA256: 230465b0b0aca2c282fc837002c53586e65588349642ff91fd513b5e5b6cf0f4
-SHA512: 5518e29f3feffac5b0beb31eddf75d0264e79a09cbd3be8d62d2f240c866c9a27b6deac787da44454c7a8d1c478e8eadfef1b16ebe16344d2328c4859e6de0ec
-Homepage: https://www.hax4us.com/
-Description: it is unofficial repository maintained by @hax4us. you can check available packages on github link :- https://github.com/Hax4us/TermuxBlack
+Version: 1.8
+Maintainer: Rajdeep Verma @UltimateCyberTech
+Installed-Size: 88
+Filename: dists/Cyber-Termux/main/binary-all/config_1.6_all.deb
+Size: 1108
+MD5sum: e22be9c018cdeaf4a7dbe05a3ad47e48
+SHA1: adfd43993dd613de9540ef288a06a26448af7e8f
+SHA256: f169efc2cbd9791c74656bba38f39741ca34493f3df9145205b61c64bd6ba017
+SHA512: 44522db482c6dc725c8c901c53b88f18b2165b0eeb65f3cf51b0e1221b723e946bcf7308969ca91ae6cff8a17ccafdcf7ffd67f0a6ba543c1fe2c51adfb7f406
+Description: Hey ! guys I Rajdeep Verma built this Device configeration Tool for you all.
 
 Package: TermuxBlack-repo
 Architecture: all

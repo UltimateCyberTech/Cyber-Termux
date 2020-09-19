@@ -12,16 +12,3 @@ SHA512: 3105fd34e356b15f31ffe31e994adda628613444e03e8dc8be508361b49cd8399577ea45
 Homepage: Not available
 Description: Hey guys I Rajdeep Verma converted the ngrok into a package.
 
-Package: Config
-Architecture: all
-Version: 1.6
-Maintainer: Rajdeep Verma @UltimateCyberTech
-Installed-Size: 88
-Filename: dists/Cyber-Termux/main/binary-aarch64/config_1.6_all.deb
-Size: 1076
-MD5sum: c10f5f30cb7b9d69a3c96b227db50929
-SHA1: e324311867b66d61634ab0c8303bed8317dbbb7c
-SHA256: 230e7df903e6b1ee88dfd3c49e22c00451db9e168f5d6f429384f551da5000d2
-SHA512: 06f6429a918d7d1a8f3404ca7edaec3902d6975cc12fe0124826d27280b8abe33d7a7909dc503099ee9a23b737b846046a29bc06b03c7ff2435903ec745ca4de
-Description: Hey ! guys I Rajdeep Verma built this Device configeration Tool for you all.
-
