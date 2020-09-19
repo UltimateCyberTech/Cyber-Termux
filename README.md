@@ -16,5 +16,6 @@ it is unofficial repository maintained by me Rajdeep Verma @UltimateCyberTech. y
 2. Termux-Style
 3. Termuxblack-repo
 4. config
+5. upkg
 
 ### @UltimateCyberTech
