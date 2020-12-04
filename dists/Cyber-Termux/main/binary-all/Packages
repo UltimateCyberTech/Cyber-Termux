@@ -1,3 +1,16 @@
+Package: Config
+Architecture: all
+Version: 1.8
+Maintainer: Rajdeep Verma @UltimateCyberTech
+Installed-Size: 88
+Filename: dists/Cyber-Termux/main/binary-all/config_1.6_all.deb
+Size: 1108
+MD5sum: e22be9c018cdeaf4a7dbe05a3ad47e48
+SHA1: adfd43993dd613de9540ef288a06a26448af7e8f
+SHA256: f169efc2cbd9791c74656bba38f39741ca34493f3df9145205b61c64bd6ba017
+SHA512: 44522db482c6dc725c8c901c53b88f18b2165b0eeb65f3cf51b0e1221b723e946bcf7308969ca91ae6cff8a17ccafdcf7ffd67f0a6ba543c1fe2c51adfb7f406
+Description: Hey ! guys I Rajdeep Verma built this Device configeration Tool for you all.
+
 Package: Termux-Style
 Architecture: all
 Version: 5.6
@@ -11,19 +24,6 @@ SHA256: 80d54257791138b27f5fc3e479cb459686335387ffcc5bc24cfb126f5d9cd03a
 SHA512: 5246189c570801568da823e68957c246cc37f3c44ae8bc5dd8a8dce28bc4da2a0406e334b6037c27c8164c1964b52710767a83b706627aa11e39ccbac1f44183
 Homepage: https://www.youtube.com/channel/UC31Jyb4PV5Ywt_E_Te9p9JA
 Description: Hey ! guys I Rajdeep Verma built this awsome Termux-Styling tool.
-
-Package: Config
-Architecture: all
-Version: 1.8
-Maintainer: Rajdeep Verma @UltimateCyberTech
-Installed-Size: 88
-Filename: dists/Cyber-Termux/main/binary-all/config_1.6_all.deb
-Size: 1108
-MD5sum: e22be9c018cdeaf4a7dbe05a3ad47e48
-SHA1: adfd43993dd613de9540ef288a06a26448af7e8f
-SHA256: f169efc2cbd9791c74656bba38f39741ca34493f3df9145205b61c64bd6ba017
-SHA512: 44522db482c6dc725c8c901c53b88f18b2165b0eeb65f3cf51b0e1221b723e946bcf7308969ca91ae6cff8a17ccafdcf7ffd67f0a6ba543c1fe2c51adfb7f406
-Description: Hey ! guys I Rajdeep Verma built this Device configeration Tool for you all.
 
 Package: TermuxBlack-repo
 Architecture: all
